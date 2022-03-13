@@ -16,8 +16,8 @@ I used a model with params: -lr 1.0 -epoch 25 -wordNgrams 2
     * p@5 0.18515
 
 3. Give 2 or 3 examples of queries where you saw a dramatic positive change in the results because of filtering.
-With query: 'laptop' predicted category: pcmcat247400050000
-With query: 'iphone' predicted category: pcmcat209400050001, pcmcat214700050000
+- With query: 'laptop' predicted category: pcmcat247400050000
+- With query: 'iphone' predicted category: pcmcat209400050001, pcmcat214700050000
 
 4. Given 2 or 3 examples of queries where filtering hurt the results, either because the classifier was wrong or for some other reason. 
 - With query: 'microsoft' predicted category: pcmcat245100050028
