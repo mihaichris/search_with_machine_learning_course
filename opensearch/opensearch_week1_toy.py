@@ -1,6 +1,3 @@
-# This file is meant to capture the commands we submitted in the iPython REPL, therefore it is not "organized" and structured like a proper Python file.
-
-
 from opensearchpy import OpenSearch
 
 host = 'localhost'
